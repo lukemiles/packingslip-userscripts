@@ -6,7 +6,6 @@
 // @match 		https://sellercentral.amazon.com/*
 // @copyright  2012+, You
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
-// @require       http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.2/jquery-ui.min.js
 // ==/UserScript==
 
 //remove ship to
