@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       Invoice Corrector
 // @namespace  https://sellercentral.amazon.com
-// @version    0.1b
+// @version    0.1.3b
 // @description  Fixes Amazon Invoices
-// @match 		https://sellercentral.amazon.com/*
+// @match   	https://sellercentral.amazon.com/gp/orders-v2/packing-slip/*
+// @match 		https://sellercentral.amazon.co.uk/gp/orders-v2/packing-slip/*
 // @copyright  2012+, You
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 // ==/UserScript==
