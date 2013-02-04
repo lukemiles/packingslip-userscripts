@@ -6,3 +6,11 @@ a collection of personal user scripts to make printing invoices from multiple we
 written with jQuery and optimized for tampermonkey + chrome
 
 released under MIT license
+
+### demo
+
+before
+![before](http://lukemiles.github.com/packingslip-userscript/before.png)
+
+after
+![after](http://lukemiles.github.com/packingslip-userscript/after.png)
