@@ -10,7 +10,9 @@ released under MIT license
 ### demo
 
 before
+
 ![before](http://lukemiles.github.com/packingslip-userscript/before.png)
 
 after
+
 ![after](http://lukemiles.github.com/packingslip-userscript/after.png)
