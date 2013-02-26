@@ -4,7 +4,9 @@
 // @version    0.1.4
 // @description  Fixes Amazon Invoices
 // @match   	https://sellercentral.amazon.com/gp/orders-v2/*
-// @match 		https://sellercentral.amazon.co.uk/gp/orders-v2/*
+// @match 	https://sellercentral.amazon.co.uk/gp/orders-v2/*
+// @match   	https://sellercentral.amazon.com/gp/orders-v2/packing-slip/*
+// @match 	https://sellercentral.amazon.co.uk/gp/orders-v2/packing-slip/*
 // @copyright  2012+, You
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 // ==/UserScript==
